@@ -1,10 +1,8 @@
-
-
 h1 { color:red;
     text-size:30px;
     text-align:center;
-    margin:20px;
-    width:850px;
+    margin:px;
+    width:1330px;
     height:40px;
     outline:dashed 4px blue;
     background-color:black;
@@ -12,9 +10,9 @@ h1 { color:red;
 
 .center {
   display:block;
-  margin-left:140px;
+  margin-left:250px;
   margin-right:200px;
-  width:56%;
+  width:50%;
 }
 
 
