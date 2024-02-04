@@ -1,0 +1,31 @@
+
+h1 { color:red;
+    text-size:30px;
+    text-align:center;
+    margin:20px;
+    width:850px;
+    height:40px;
+    outline:dashed 4px blue;
+    background-color:black;
+}
+
+.center {
+  display:block;
+  margin-left:140px;
+  margin-right:200px;
+  width:56%;
+}
+
+
+ul  {color:purple;
+   text-align:center;
+   outline:dashed 5px black;
+   background-color:yellow;
+}
+
+li {color:blue;
+    text-align;center;
+}
+
+h2 {text-align:center;
+    color:blue;
