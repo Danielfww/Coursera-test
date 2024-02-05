@@ -1,3 +1,15 @@
+body
+ {background-image: url("https://assets.codepen.io/11868974/R.jpeg");
+    background-size:399px;
+   width=500px;
+   height=500px;
+   border=2px solid;
+   
+   
+
+}
+
+
 h1 { color:red;
     text-size:30px;
     text-align:center;
@@ -27,4 +39,4 @@ li {color:blue;
 }
 
 h2 {text-align:center;
-    color:blue;
+    color:red;
