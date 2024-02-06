@@ -1,23 +1,19 @@
 body
- {background-image: url("https://assets.codepen.io/11868974/R.jpeg");
-    background-size:399px;
-   width=100px;
+ 
+   {background-image: url("https://assets.codepen.io/11868974/cool-background.png");
+   background-size:1000px;
+   font-family:Garamond;
+   width=200px;
    height=500px;
-   border=2px solid;
-   
-   
-
-}
+   }
 
 
-h1 { color:red;
+h1 { color:Black;
     text-size:30px;
-    text-align:center;
-    margin:px;
+    text-align:left;
+    margin:10px;
     width:1330px;
     height:40px;
-    outline:dashed 4px blue;
-    background-color:black;
 }
 
 .center {
@@ -28,15 +24,23 @@ h1 { color:red;
 }
 
 
+.button {
+  background-color:lightgreen;
+  padding:15px 32px;
+}
+
 ul  {color:purple;
    text-align:center;
    outline:dashed 5px black;
-   background-color:yellow;
+   background-color:lightblue;
 }
 
-li {color:blue;
+li {color:darkpink;
     text-align;center;
+    font-family:Verdana;
+  
 }
 
 h2 {text-align:center;
-    color:red;
+    color:Black;
+    font-family:Garamond;
