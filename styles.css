@@ -17,6 +17,19 @@ h1 { color:Black;
     height:40px;
 }
 
+img {
+  border-radius=8px;
+  image-align:center;
+  border:1px solid;
+  padding:5px;
+  display:block;
+  margin-left:0 auto;
+  margin-right:0 auto;
+  width:50%;
+  text-align:center;
+  }
+
+    
 .center {
   display:block;
   margin-left:0px;
