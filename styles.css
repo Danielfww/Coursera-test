@@ -1,17 +1,19 @@
 body
  
    {background-image: url("https://assets.codepen.io/11868974/cool-background.png");
-   background-size:1000px;
+   background-size:cover;
+   background-position:center center;
+   background-repeat:no-repeat;
    font-family:Garamond;
-   width=200px;
-   height=500px;
+   width=2px;
+   height=5px;
    opacity=.5;
    }
 
 
 h1 { color:Black;
     text-size:30px;
-    text-align:center;
+    text-align:left;
     margin:10px;
     width:1330px;
     height:40px;
@@ -29,7 +31,6 @@ img {
   text-align:center;
   }
 
-    
 .center {
   display:block;
   margin-left:0px;
