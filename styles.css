@@ -17,7 +17,13 @@ h1 { color:Black;
     margin:10px;
     width:1330px;
     height:40px;
+    text-transform:uppercase;
 }
+
+ #site-title {font-family:cursive;
+              color:purple;
+              font-size:35px;
+  }
 
 img {
   border-radius=8px;
@@ -59,3 +65,4 @@ li {color:darkpink;
 h2 {text-align:center;
     color:Black;
     font-family:Garamond;
+  
